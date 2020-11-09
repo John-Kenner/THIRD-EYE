@@ -2,7 +2,7 @@
 
 $  apt update && apt upgrade
 
-$  git clone https://github.com/John-kener/THIRD-EYE.git
+$  git clone https://github.com/John-Kenner/THIRD-EYE.git
 
 $  cd THIRD-EYE
 
